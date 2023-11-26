@@ -6,7 +6,7 @@ var input3 = document.getElementById('input3').value;
         input1 = 0
     }
     if (input2 == ''){
-        input2 == 0
+        input2 = 0
     }
     if (input3 == ''){
         input3 = 0

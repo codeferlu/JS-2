@@ -10,7 +10,15 @@ body {
     align-items: center;
     font-family: sans-serif;
 }
-
+.box {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
+img {
+    width: 300px;
+    heigh: 300px;
+}
 p {
     font-size: large;
     color: black;
